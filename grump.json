@@ -1,0 +1,15 @@
+{
+  "defaultCommand": "saymyname",
+  "commands": {
+    "saymyname": {
+      "scriptType": "bash",
+      "scriptPath": "index.sh",
+      "vars": {
+        "name": {
+          "default": "Keith",
+          "persist": false 
+        }
+      }
+    }
+  }
+}
