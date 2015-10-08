@@ -2,8 +2,8 @@
   "defaultCommand": "saymyname",
   "commands": {
     "saymyname": {
-      "scriptType": "bash",
       "scriptPath": "index.sh",
+      "run": "sh",
       "vars": {
         "name": {
           "default": "Keith",
