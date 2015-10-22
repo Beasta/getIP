@@ -1,15 +1,9 @@
 {
-  "defaultCommand": "saymyname",
+  "defaultCommand": "getIP",
   "commands": {
-    "saymyname": {
+    "getIP": {
       "scriptPath": "index.sh",
-      "run": "sh",
-      "vars": {
-        "name": {
-          "default": "Keith",
-          "persist": false 
-        }
-      }
+      "run": "sh"
     }
   }
 }
