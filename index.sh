@@ -1,1 +1,1 @@
-say -v Samantha Hello grump_name
+ipconfig getifaddr en0
