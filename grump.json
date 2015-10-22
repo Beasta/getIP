@@ -3,7 +3,7 @@
   "commands": {
     "getIP": {
       "scriptPath": "index.sh",
-      "run": "sh"
+      "scriptType": "bash"
     }
   }
 }
